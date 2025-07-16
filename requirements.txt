@@ -1,0 +1,11 @@
+huggingface_hub==0.25.2
+streamlit
+transformers
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+torch
