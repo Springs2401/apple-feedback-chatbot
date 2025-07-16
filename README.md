@@ -1,6 +1,7 @@
 # AI-Powered Feedback and Complaints Chatbot for Apple Brand Monitoring
 
 ***Try It Live:** https://huggingface.co/spaces/Springs24/apple-feedback-chatbot*
+***Link to Colab Notebook:** https://colab.research.google.com/drive/1UsH6oHbJntbX6oZ9H5K1wGni3lcm_sKp?usp=sharing*
 
 ## Overview
 
